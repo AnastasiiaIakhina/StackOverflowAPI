@@ -8,3 +8,6 @@ determine weightage
 4) Show top questions according to Weightage
 
 File with the results can be found in ...\bin\Debug folder.
+
+To run the solution, these packages should be added:
+Nunit Framework, NUnit Test adapter, Newtonsoft.json, RestSharp.
