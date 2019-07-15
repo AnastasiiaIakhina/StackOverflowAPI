@@ -1,0 +1,30 @@
+122  Add Selenium&#39;s WebDriverWaiter on .NET Core XUnit test suite
+85  Deploy EXE provided by Nuget package as a component of a ClickOnce installation
+83  Selenium - Exception - Connection getting closed
+77  Selenium Webdriver: Specify filepath for Firefox exe
+55  Using SelectByText (partial) with C# Selenium WebDriver bindings doesn&#39;t seem to work
+36  Accessing IIS Localhost from Selenium docker container
+23  Build error .net core with selenium on Ubuntu, but NuGet installed it ok and it&#39;s in the project file
+19  C# xUnit Test listeners
+15  C# - Selenium - Chromedriver - How to find element in class named the same as another class
+14  C# selenium chromedriver click on Allow store files on this device
+13  Get last item from a table using Selenium Driver C#
+12  Unable to change foreach to LINQ syntax
+8  Horizontal scroll in c#-selenium, control is inside a grid
+7  How can I handle Keyboard on Automation Test?
+7  Unable to execute NUnit Selenium tests through Jenkins - target machine actively refused connection
+7  Drag and Drop local File in browser with Selenium C#
+7  List of IWebDriver objects causes Selenium test to fail
+6  Ignoring exceptions when using c# selenium webdriverWait wait.untill() function
+6  Reading data from excel in selenium C#
+5  Can&#39;t use AndroidDriver&lt;AndroidElement&gt; because of OpenQA.Selenium.Appium.Service.AppiumCommandExecutor
+3  driver.Manage().Logs.GetLog(LogType.Browser) no longer working in Chromedriver version 75.0.3770
+2  How do I get href values of a specific Link Text into a list so I can change them into a full URL?
+2  Missing .js files for Selenium in .Net causing test failures
+2  How to assert that a page contains one of two possible texts (so an either-or assertion)?
+2  No Flash reset Google Chrome v71 Selenium .Net
+2  .NET Tests with Selenium, headless Chrome error.
+1  addScriptToEvaluateOnNewDocument Selenium (Does not work)
+1  Cant find textbox on Chrome Selenium
+0  ChromeDriver Timeout - how do I fix it?
+0  How do you bail out of selenium test on error message displayed
